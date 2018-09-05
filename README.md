@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Hello
+
+I am steph and I like puppies (❍ᴥ❍ʋ)
